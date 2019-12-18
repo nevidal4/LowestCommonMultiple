@@ -1,0 +1,2 @@
+# LowestCommonMultiple
+Finds the LCM
